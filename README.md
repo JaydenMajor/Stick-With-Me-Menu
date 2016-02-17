@@ -28,7 +28,7 @@ Tags: Stick With Me Menu
 
 ## Frequently Asked Questions
 
-### Why did you developed this plugin? ==
+### Why did you developed this plugin?
 We devloped this plugin because we were working with wordpress menus that were much longer that the screen and haveing to scroll up just to add a new item was not ideal.
 
 ## Change Log
