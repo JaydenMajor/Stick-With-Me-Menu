@@ -15,7 +15,8 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Tags: Stick With Me Menu
 
 ## Description
-
+ This plugin makes the add pages section of the wordpress menu editor stay on screeen no matter how long your menu is.
+ 
 ## Installation
 ### Install From WordPress Repository
 1. Find and Install & activate Stick With Me Menu
