@@ -1,6 +1,6 @@
 # Stick With Me Menu
 
-Contributors: jayden-major,
+Contributors: jayden-major, Jason Ovalle
 
 equires at least: 4.0
 
