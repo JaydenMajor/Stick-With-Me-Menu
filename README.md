@@ -14,7 +14,7 @@ License: GPLv3
 
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Tags: Menu editor, menu, moves adding menu, wordpress admin,  Jayden Major & Jason Ovalle, Jayden Major, Jason Ovalle
+Tags: Menu editor, menu, moves adding menu, wordpress admin,  Jayden Major & Jason Ovalle, stick with me menu
 
 ## Description
  This plugin makes the add pages section of the wordpress menu editor stay on screeen no matter how long your menu is. 
