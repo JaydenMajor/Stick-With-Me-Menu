@@ -1,5 +1,7 @@
 # Stick With Me Menu
 
+![Icon](/assets/icon-256x256.png)
+
 Contributors: jayden-major, Jason Ovalle
 
 Requires at least: 4.0
