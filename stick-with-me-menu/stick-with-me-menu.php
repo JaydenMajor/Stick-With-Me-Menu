@@ -13,8 +13,9 @@ Licence URI: http://www.gnu.org/licenses/gpl.html
 /*
 * Adding css to admin pages.
 */
-add_action( 'admin_enqueue_scripts', 'stickwithmemenu_scripts' );
-function stickwithmemenu_scripts(){
-	 wp_enqueue_style( plugin_dir_url( __FILE__ ) . 'assets/stick-with-me-menu.css' );
+function stickwithmemenu_style() {
+	wp_register_style('stickwithmecss',plugin_dir_url( __FILE__ ) .'/assets/stick-with-me-menu.css');
+    wp_enqueue_style('stickwithmecss');
 }
+add_action( 'admin_enqueue_scripts', 'stickwithmemenu_style' );
 ?>
