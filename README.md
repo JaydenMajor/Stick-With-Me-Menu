@@ -12,7 +12,7 @@ License: GPLv3
 
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Tags: Stick With Me Menu
+Tags: Stick With Me Menu, jayden-major, Jason Ovalle, menu, menu editor
 
 ## Description
  This plugin makes the add pages section of the wordpress menu editor stay on screeen no matter how long your menu is.
