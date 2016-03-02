@@ -41,3 +41,7 @@ We devloped this plugin because we were working with wordpress menus that were m
 Release Date: TBD
 
 * Initial release.
+
+## ScreenShots
+![Screenshot-1](/assets/screenshot-1.png)
+Stick with me menu in action.
