@@ -6,3 +6,6 @@ Assets for stick with me wordpress plugin
 
 ## Banner
 ![Banner](banner-722x250.png)
+
+##Screenshots
+![Screenshot-1](screenshoct-1.png)
