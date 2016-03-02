@@ -44,4 +44,5 @@ Release Date: TBD
 
 ## ScreenShots
 ![Screenshot-1](/assets/screenshot-1.png)
+
 Stick with me menu in action.
