@@ -2,19 +2,19 @@
 
 ![Icon](/assets/icon-256x256.png)
 
-Contributors: jayden-major, Jason Ovalle
+**Contributors:** jayden-major, Jason Ovalle
 
-Requires at least: 4.0
+**Requires at least:** 4.0
 
-Tested up to: 4.4.2
+**Tested up to:** 4.4.2
 
-Stable tag: 1.0
+**Stable tag:** 1.0
 
-License: GPLv3
+**License:** GPLv3
 
-License URI: http://www.gnu.org/licenses/gpl.html
+**License URI:** http://www.gnu.org/licenses/gpl.html
 
-Tags: Menu editor, menu, moves adding menu, wordpress admin,  Jayden Major & Jason Ovalle, stick with me menu
+**Tags:** Menu editor, menu, moves adding menu, wordpress admin,  Jayden Major & Jason Ovalle, stick with me menu
 
 ## Description
  This plugin makes the add pages section of the wordpress menu editor stay on screeen no matter how long your menu is. 
