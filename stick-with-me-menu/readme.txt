@@ -1,14 +1,13 @@
 === Stick With Me Menu ===
 Contributors: jayden-major, Jason Ovalle
-equires at least: 4.0
+Requires at least: 4.0
 Tested up to: 4.4.2
 Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
-Tags: Menu editor, menu, moves adding menu, wordpress admin,  Jayden Major & Jason Ovalle, Jayden Major, Jason Ovalle
+Tags: Stick With Me Menu, jayden-major, Jason Ovalle, menu, menu editor
 == Description ==
-This plugin makes the add pages section of the wordpress menu editor stay on screeen no matter how long your menu is. 
-Stick with me menu is open source and available on github https://github.com/JaydenMajor/Stick-With-Me-Menu
+This plugin makes the add pages section of the wordpress menu editor stay on screeen no matter how long your menu is.
 
 == Installation ==
 = Install From WordPress Repository =
@@ -34,5 +33,3 @@ We devloped this plugin because we were working with wordpress menus that were m
 Release Date: TBD
 
 * Initial release.
-
-== Upgrade Notice ==
