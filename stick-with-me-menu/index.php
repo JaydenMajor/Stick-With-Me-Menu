@@ -1,3 +1,3 @@
 <?php
-//Silence
-?>
+//He's Dead Jim...
+die();
