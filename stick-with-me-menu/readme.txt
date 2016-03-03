@@ -9,7 +9,7 @@ Tags: Stick With Me Menu, jayden-major, Jason Ovalle, menu, menu editor
 == Description ==
 This plugin makes the add pages section of the wordpress menu editor stay on screeen no matter how long your menu is.
 The code for the plugin is online at https://github.com/JaydenMajor/Stick-With-Me-Menu/
-feel free to contrubute and modify the code or this plugin.
+feel free to contribute and modify the code or this plugin.
 
 == Installation ==
 = Install From WordPress Repository =
