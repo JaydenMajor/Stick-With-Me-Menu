@@ -1,4 +1,4 @@
-== Stick With Me Menu ==
+=== Stick With Me Menu ===
 Contributors: jayden-major, Jason Ovalle
 equires at least: 4.0
 Tested up to: 4.4.2
