@@ -16,6 +16,8 @@
 
 **Tags:** Menu editor, menu, moves adding menu, wordpress admin,  Jayden Major & Jason Ovalle, stick with me menu
 
+**Wordpress Plugin Link:** https://wordpress.org/plugins/stick-with-me-menu/
+
 ## Description
  This plugin makes the add pages section of the wordpress menu editor stay on screeen no matter how long your menu is. 
  Stick with me menu is open source and available on github https://github.com/JaydenMajor/Stick-With-Me-Menu
