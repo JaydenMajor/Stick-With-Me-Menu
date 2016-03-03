@@ -1,6 +1,6 @@
 === Stick With Me Menu ===
 Contributors: jayden-major, Jason Ovalle
-equires at least: 4.0
+Requires at least: 4.0
 Tested up to: 4.4.2
 Stable tag: 1.1
 License: GPLv3
