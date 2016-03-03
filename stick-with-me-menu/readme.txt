@@ -30,6 +30,6 @@ We devloped this plugin because we were working with wordpress menus that were m
 == Change Log ==
 
 = 1.0 =
-Release Date: TBD
+Release Date: March 6, 2016
 
 * Initial release.
