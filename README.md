@@ -42,9 +42,10 @@ We devloped this plugin because we were working with wordpress menus that were m
 Release Date: TBD
 	
 * Added a settings option to enable/disable the plugin in the menu area.
+* Fixed I18n so it works correctly
 
 ### 1.0
-Release Date: TBD
+Release Date: March 3, 2016
 
 * Initial release.
 
