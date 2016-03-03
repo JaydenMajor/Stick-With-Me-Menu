@@ -43,5 +43,8 @@ Release Date: March 3, 2016
 * Initial release.
 
 == Upgrade Notice ==
+= 1.1 =
+This update fixed i18n and added an enable / disable setting.
+
 = 1.0 =
 Update to get new features
