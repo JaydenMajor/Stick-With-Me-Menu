@@ -8,7 +8,7 @@
 
 **Tested up to:** 4.4.2
 
-**Stable tag:** 1.0
+**Stable tag:** 1.1
 
 **License:** GPLv3
 
@@ -36,6 +36,10 @@
 We devloped this plugin because we were working with wordpress menus that were much longer that the screen and haveing to scroll up just to add a new item was not ideal.
 
 ## Change Log
+### 1.1 
+Release Date: TBD
+	
+* Added a settings option to enable/disable the plugin in the menu area.
 
 ### 1.0
 Release Date: TBD
